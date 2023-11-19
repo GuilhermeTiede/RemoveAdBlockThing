@@ -14,6 +14,6 @@ Simply install the extension, and it will automatically activate on YouTube page
 
 Version: 1.0
 
-Author: Your Name
+Author: Guilherme Tiede
 
 Disclaimer: This extension is not affiliated with or endorsed by YouTube. Use at your own discretion.
