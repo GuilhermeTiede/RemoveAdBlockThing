@@ -19,7 +19,8 @@ Author: Guilherme Tiede
 Disclaimer: This extension is not affiliated with or endorsed by YouTube. Use at your own discretion.
 
 
-Instalation: 
+# Instalation: 
+**Fisrt Step : Disable Adblock on YouTube page** 
 
 Go to : chrome://extensions/
 
